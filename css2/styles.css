@@ -1,0 +1,90 @@
+a{
+  color: #11999E;
+}
+
+body{
+  margin : 0;
+  text-align: center;
+  font-family: Merriweather, serif;
+}
+
+h1{
+  margin : 50px auto;
+  font-family: Courgette, cursive;
+  font-size: 60px;
+  color: #66BFBF;
+}
+
+h2{
+  margin-top : 0;
+  margin-bottom: 0;
+  font-family: Josefin, sans-serif;
+  font-size : 2rem;
+  color: #66BFBF;
+}
+
+h3{
+  margin-top : 0;
+  margin-bottom: 0;
+  font-family: Josefin, sans-serif;
+  color: #11999E;
+}
+
+p{
+  font-family: Josefin, sans-serif;
+}
+
+.top-container{
+  background-color: #fcecdd ;
+  padding-top : 30px;
+}
+
+.top-cloud{
+  position: absolute;
+  top : 50px;
+  right :20%;
+}
+
+.bottom-cloud{
+  position: absolute;
+}
+
+.blank {
+  margin-top: 0;
+  height: 60px;
+}
+
+.pro{
+  text-decoration : underline;
+}
+
+.programmer{
+  font-weight: normal;
+}
+
+.skill-row{
+  margin : 100px auto;
+  width : 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-img1{
+  width : 25%;
+  float : left;
+  margin-right: 30px;
+}
+
+.skill-img2{
+  width : 25%;
+  float : right;
+  margin-left: 30px;
+}
+
+.skill-text1{
+  clear : left;
+}
+
+.skill-text2{
+  clear : right;
+}
